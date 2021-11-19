@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_3"
+        android:text="Button 3"
+        android:drawablePadding="10dp"
+        android:drawableTint="@color/black"
+
+        android:textColor="#FFFFFF"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="182dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_4"
+        android:text="Button 5"
+        android:textColor="@color/purple_200"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="312dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_7"
+        android:text="Button 7"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="432dp" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_8"
+        android:text="Button 8"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="493dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="194dp"
+        android:layout_height="50dp"
+        android:background="@drawable/custom_button"
+        android:text="Button 1"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="44dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_2"
+        android:text="Button 2"
+        android:textColor="#8BF36E"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="113dp" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_9"
+        android:text="Button 9"
+        android:textColor="#E91E63"
+        tools:layout_editor_absoluteX="110dp"
+        tools:layout_editor_absoluteY="553dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_5"
+        android:text="Button 4"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="248dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="191dp"
+        android:layout_height="46dp"
+        android:background="@drawable/custom_button_6"
+        android:text="Button 6"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/custom_button_7"
+        android:text="B7"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="620dp" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/custom_button_10"
+        android:text="B10"
+        android:textColor="@color/white"
+        tools:layout_editor_absoluteX="219dp"
+        tools:layout_editor_absoluteY="620dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
